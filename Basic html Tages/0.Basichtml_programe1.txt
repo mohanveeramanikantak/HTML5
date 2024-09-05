@@ -1,0 +1,7 @@
+<html>
+<head>
+<title> Student Detials </title>
+<body><body bgcolor=yellow>
+<font><font color = red size=32>
+Kalepu M V Manikanta
+</font></body></head></html>

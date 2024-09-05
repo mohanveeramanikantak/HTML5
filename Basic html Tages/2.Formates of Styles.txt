@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Student Detials </title>
+<body><body bgcolor=blue>
+<font><font color = pink size=32>
+<b>Kalepu.Mohan.Veera.Manikanta<br>
+<I>S/O Kalepu.Srinivasu<br>
+<u>Inter<br>
+<U>P.R.GOVT.JUNIOUR,college<br>
+<I>Kakinda<br>
+</font></body></head></html>

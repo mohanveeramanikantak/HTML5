@@ -1,0 +1,8 @@
+<html>
+<head>
+<title> center aligenment </title>
+<body><body bgcolor=black>
+<font><font color = pink size=24>
+<center> Shanmithi Computers</centre>
+<center> Computer tranning center</center>
+</font></body></head></html>

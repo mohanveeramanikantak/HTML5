@@ -1,0 +1,7 @@
+<HTML>
+<Head>
+<Title> Marquee Behavior </Title>
+<Body><Body bgcolor= black>
+<Font><font color= white size=32>
+<Marquee Behavior="Alternate">Shanmithi Computers</Marquee>
+</Font></Body></Head></Html

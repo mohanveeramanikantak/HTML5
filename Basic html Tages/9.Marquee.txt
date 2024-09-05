@@ -1,0 +1,7 @@
+<HTML>
+<Head>
+<Title> Marquee </Title>
+<Body><Body bgcolor= gray>
+<Font><font color=orange size=32>
+<Marquee>Shanmithi Computers</Marquee>
+</Font></Body></Head></Html

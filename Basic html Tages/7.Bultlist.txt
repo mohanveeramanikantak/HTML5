@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> Bultlist </title>
+<Body><body bgcolor=Skyblue>
+<font><font color=green size=32>
+<li> adpc
+<li> c,c++
+<li> java
+<li> Python
+</font></body></head></html>
