@@ -30,7 +30,7 @@ Welcome to my **HTML5 Project**! This repository contains a simple web page buil
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript 
 
 ## 📸 Screenshots
 ![Preview](screenshot.png)
