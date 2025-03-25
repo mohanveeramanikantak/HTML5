@@ -1,5 +1,5 @@
 ### 1. Basic README Structure for an HTML5 Project's 
-Create a `README.md` file and add the following content: 
+Create a `README.md` file and add the following content:  
 
 ```md 
 # HTML5 Project 🚀
