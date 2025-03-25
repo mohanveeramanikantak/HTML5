@@ -7,7 +7,7 @@ Create a `README.md` file and add the following content:
 Welcome to my **HTML5 Project**! This repository contains a simple web page built with HTML5, CSS, and JavaScript. 
 
 ## 📌 Features
-- Semantic HTML5 structure
+- Semantic HTML5 structure 
 - Responsive design 
 - Interactive elements with JavaScript 
  
