@@ -9,7 +9,7 @@ Welcome to my **HTML5 Project**! This repository contains a simple web page buil
 ## 📌 Features
 - Semantic HTML5 structure
 - Responsive design 
-- Interactive elements with JavaScript
+- Interactive elements with JavaScript 
  
 ## 📂 Project Structure
 ``` 
