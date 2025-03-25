@@ -12,7 +12,7 @@ Welcome to my **HTML5 Project**! This repository contains a simple web page buil
 - Interactive elements with JavaScript
 
 ## 📂 Project Structure
-```
+``` 
 📦 project-folder  
  ┣ 📜 index.html  
  ┣ 📜 style.css  
